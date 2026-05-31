@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdarse",
+        "uuid": 17808412,
+        "checksum": "6gudqe"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
